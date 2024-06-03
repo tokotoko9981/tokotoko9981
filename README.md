@@ -1,4 +1,4 @@
-## Hi there 👋
+## トコトコだよ～
 
 <!--
 **tokotoko9981/tokotoko9981** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
