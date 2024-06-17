@@ -14,14 +14,14 @@
 </p>
 <br />
 
-##  Skills
+## Skills
 ### Language
-<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=c,cpp,py,ts&theme=light"/> </a>
+<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=c,cpp,py,js,ts&theme=light"/> </a>
 ### Tools
-<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=git,github&theme=light"/> </a>
+<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=git,github,nodejs&theme=light"/> </a>
 
 
-## 📈 statistics
+## Statistics
    
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tokotoko9981&theme=github_dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tokotoko9981&theme=github_dark)
