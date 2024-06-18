@@ -16,7 +16,7 @@
 
 ## Skills
 ### Language
-<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=c,cpp,py,js,ts&theme=light"/> </a>
+<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=c,cpp,py,js,ts,bots&theme=light"/> </a>
 ### Tools
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=git,github,nodejs&theme=light"/> </a>
 
